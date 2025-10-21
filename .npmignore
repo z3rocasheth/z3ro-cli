@@ -1,0 +1,15 @@
+src/
+node_modules/
+.git/
+.gitignore
+*.log
+tsconfig.json
+patches/
+build/
+db/
+keychain/
+artifact/
+ship.mjs
+build-patches/
+*.md
+!README.md
