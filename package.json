@@ -1,6 +1,6 @@
 {
   "name": "z3ro-cli",
-  "version": "1.3.10",
+  "version": "1.3.11",
   "description": "Z3ro Cash - Privacy-First Terminal Wallet",
   "type": "commonjs",
   "main": "./dist/main.js",
